@@ -30,6 +30,6 @@ wp-content/themes/twentyseventeen/
 wp-content/advanced-cache\.php
 wp-content/cache/
 xmlrpc\.php
+dploy.yaml
 
-*.yaml
 *.sql

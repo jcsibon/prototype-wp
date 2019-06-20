@@ -1,0 +1,10 @@
+www.cartfarmer.com:
+ scheme: ftp
+ host: 
+ user: 
+ pass: 
+ check: true
+ path:
+  local: /
+  remote: /cartfarmer.com/
+exclude: ["*.yaml"]

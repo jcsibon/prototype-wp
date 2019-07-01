@@ -1,8 +1,5 @@
 \.DS_Store
 
-index\.php
-license\.txt
-readme\.html
 wp-admin/
 wp-activate\.php
 wp-blog-header\.php
@@ -31,5 +28,9 @@ wp-content/advanced-cache\.php
 wp-content/cache/
 xmlrpc\.php
 dploy.yaml
+
+/index\.php
+/license\.txt
+/readme\.html
 
 *.sql
